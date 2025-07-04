@@ -1,6 +1,6 @@
 import fastify from "fastify";
 import cors from "@fastify/cors";
-// import  { PORT } from "/.env";
+// import  { PORT } from "./env";
 
 const server = fastify({
   logger: true,
