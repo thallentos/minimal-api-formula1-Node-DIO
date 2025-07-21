@@ -1,6 +1,6 @@
 # Formula 1 API
 
-================
+---
 
 ## Descrição
 
@@ -44,3 +44,6 @@ npm run start:dev
 
 - **GET /drivers**: Retorna uma lista de pilotos
 - **GET /drivers/:id**: Retorna informações de um piloto específico
+
+## Licença
+Este projeto está licenciado sob a [Minha License](LICENSE.md).
